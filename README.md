@@ -25,7 +25,7 @@ This adorable game was created to celebrate my dog's 3rd birthday! My furry frie
 
 To run this game on your local machine:
 
-1. Clone this repository:
+1. Clone this repository.
 2. Open the project folder in your preferred Python environment.
 3. Install the required libraries:
 
