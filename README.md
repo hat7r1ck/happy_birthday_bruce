@@ -28,9 +28,9 @@ To run this game on your local machine:
 1. Clone this repository:
 2. Open the project folder in your preferred Python environment.
 3. Install the required libraries:
+
 ```
 pip install pygame
-
 ```
 
 4. Run the game:
