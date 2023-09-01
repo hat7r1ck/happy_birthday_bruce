@@ -21,7 +21,7 @@ CUTE_DOG_MESSAGES = ["Bark!", "Woof!", "Ruff!", "Arf!"]
 
 # Create the game window
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Pixel Game")
+pygame.display.set_caption("Happy Birthday Bruce")
 
 class Player(pygame.sprite.Sprite):
     def __init__(self):
