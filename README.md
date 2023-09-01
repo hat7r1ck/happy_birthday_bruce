@@ -41,7 +41,7 @@ python main.py
 5. Celebrate Bruce's birthday in style!
 
 ## Acknowledgments
-Special thanks to Bruce for being the inspiration behind this game.
-Happy 3rd Birthday, and many more fun-filled years of ball chasing!
-Enjoy the game, and have a pawsitively great time celebrating my dog's birthday!
+- Special thanks to Bruce for being the inspiration behind this game.
+- Happy 3rd Birthday, and many more fun-filled years of ball chasing!
+- Enjoy the game, and have a pawsitively great time celebrating my dog's birthday!
 
